@@ -1,5 +1,10 @@
 # Changelog
 
+## [v1.97.1](https://github.com/k1LoW/tbls/compare/v1.97.0...v1.97.1) - 2026-11-22
+
+### Other Changes
+- fix: use crypto_zcash for the BigQuery test and sample by @k1LoW in https://github.com/k1LoW/tbls/pull/903
+
 ## [v1.97.0](https://github.com/k1LoW/tbls/compare/v1.96.1...v1.97.0) - 2026-11-19
 
 ### Breaking Changes 🛠
